@@ -1,4 +1,4 @@
-# SKILL.md（GitHub GFM 优化版）
+# SKILL.md（vpn-client-config-inventory）
 
 > 
 > 优化点：标准YAML front‑matter、代码块指定语言、标题层级规范化、表格对齐、目录、折叠块收纳长内容、告警块、目录锚点、文件树语法、修复原始文档换行与空格，完全兼容GitHub预览渲染。
